@@ -82,7 +82,7 @@ a)Pay the installement : I payment is done, then remaning balance will be update
 
 b)Calculate the EMI : User can caculae monthly EMI by entering amount,year and the interest rate that is already filled by bank manager.
 
-c)see remaining balance 
+c)Check remaining balance 
  
 
 
