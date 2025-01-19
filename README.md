@@ -79,7 +79,9 @@ OUTPUT :
 ![3button](https://user-images.githubusercontent.com/48892208/85876193-fba3b500-b7f2-11ea-8295-731c58caa532.png)
 
 a)Pay the installement : I payment is done, then remaning balance will be updated and als printed on screen
+
 b)Calculate the EMI : User can caculae monthly EMI by entering amount,year and the interest rate that is already filled by bank manager.
+
 c)see remaining balance 
  
 
